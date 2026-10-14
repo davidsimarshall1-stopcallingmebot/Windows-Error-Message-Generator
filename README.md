@@ -26,6 +26,12 @@ message = "Your custom error message goes here!"
 buttons = vbCritical + vbOKOnly
 title = "Custom Error Title"
 
+
+
+
+
+
+
 result = MsgBox(message, buttons, title)
 <img width="602" height="396" alt="image" src="https://github.com/user-attachments/assets/25008183-2a7b-42cc-ac15-d178d43ad129" />
 Enter your custom messages. Then press "OK".
@@ -33,4 +39,3 @@ Enter your custom messages. Then press "OK".
 Now, type in the window title, then click "OK".
 <img width="472" height="247" alt="image" src="https://github.com/user-attachments/assets/844c7cac-221f-4cc0-b8b5-93b901037970" />
 Choose a icon type like 16, 48, or 64. Then choose buttons type like 0, 1 or 4.
-
